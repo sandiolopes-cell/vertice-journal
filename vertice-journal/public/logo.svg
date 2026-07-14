@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="#f5edde"/>
-  <circle cx="256" cy="256" r="226" fill="none" stroke="#17120f" stroke-width="8"/>
-  <path d="M135 130h72l54 206 57-206h69L294 382h-72z" fill="#17120f"/>
-  <path d="M314 112l70-40v52l-70 24z" fill="#8b2024"/>
-  <rect x="126" y="365" width="260" height="58" fill="#8b2024"/>
-  <text x="256" y="406" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#fff">VÉRTICE</text>
-</svg>
